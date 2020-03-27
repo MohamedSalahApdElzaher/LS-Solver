@@ -16,3 +16,7 @@ linear systems of algebraic equation using iterative methods
 	
 			}
 		});
+
+// 2nd edit :
+1- enable -ve numbers
+2- accept error and ingnore iteration's number
